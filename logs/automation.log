@@ -1,0 +1,181 @@
+07/17/2025 03:44:30 PM - automation - INFO - Logger successfully initialized
+07/17/2025 03:44:32 PM - automation - INFO - ***** Test_001_Registration started *******
+07/17/2025 03:44:32 PM - automation - INFO - Navigating to URL: https://www.automationexercise.com/
+07/17/2025 03:44:35 PM - automation - INFO - Clicking on signup button
+07/17/2025 03:44:36 PM - automation - INFO - Providing customer details for registration
+07/17/2025 03:44:36 PM - automation - INFO - Generated Email: fj39oxi0@gmail.com
+07/17/2025 03:44:38 PM - automation - INFO - Creating account
+07/17/2025 03:44:39 PM - automation - INFO - Confirmation message received: ACCOUNT CREATED!
+07/17/2025 03:44:39 PM - automation - INFO - ***** Account registration passed *******
+07/17/2025 03:44:42 PM - automation - INFO - ***** Test_001_Registration finished *******
+07/17/2025 04:16:07 PM - automation - INFO - Logger successfully initialized
+07/17/2025 04:16:10 PM - automation - INFO - ***** Test_001_Registration started *******
+07/17/2025 04:16:10 PM - automation - INFO - Navigating to URL: https://www.automationexercise.com/
+07/17/2025 04:16:15 PM - automation - INFO - Clicking on signup button
+07/17/2025 04:16:17 PM - automation - INFO - Providing customer details for registration
+07/17/2025 04:16:17 PM - automation - INFO - Generated Email: evj5jnxl@gmail.com
+07/17/2025 04:16:19 PM - automation - INFO - Creating account
+07/17/2025 04:16:20 PM - automation - INFO - Confirmation message received: ACCOUNT CREATED!
+07/17/2025 04:16:20 PM - automation - INFO - ***** Account registration passed *******
+07/17/2025 04:16:22 PM - automation - INFO - ***** Test_001_Registration finished *******
+07/17/2025 04:48:05 PM - automation - INFO - Logger successfully initialized
+07/17/2025 04:48:12 PM - automation - INFO - Logger successfully initialized
+07/17/2025 04:49:04 PM - automation - INFO - Logger successfully initialized
+07/17/2025 04:49:07 PM - automation - INFO - ***** Test_001_Registration started *******
+07/17/2025 04:49:07 PM - automation - INFO - Navigating to URL: https://www.automationexercise.com/
+07/17/2025 04:49:07 PM - automation - ERROR - Exception occurred: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\OpenCartProject\testCases\test_001_Reg_newcode.py", line 27, in test_account_reg
+    self.driver.get(self.url)
+    ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+07/17/2025 07:15:23 PM - automation - INFO - Logger successfully initialized
+07/17/2025 07:15:25 PM - automation - INFO - ***** Test_001_Registration started *******
+07/17/2025 07:15:25 PM - automation - INFO - Navigating to URL: https://www.automationexercise.com/
+07/17/2025 07:15:25 PM - automation - ERROR - Exception occurred: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\OpenCartProject\testCases\test_001_Reg_newcode.py", line 27, in test_account_reg
+    self.driver.get(self.url)
+    ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+07/17/2025 07:16:27 PM - automation - INFO - Logger successfully initialized
+07/17/2025 07:16:30 PM - automation - INFO - ***** Test_001_Registration started *******
+07/17/2025 07:16:30 PM - automation - INFO - Navigating to URL: https://www.automationexercise.com/
+07/17/2025 07:16:30 PM - automation - ERROR - Exception occurred: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\OpenCartProject\testCases\test_001_Reg_newcode.py", line 27, in test_account_reg
+    self.driver.get(self.url)
+    ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+07/17/2025 07:25:39 PM - automation - INFO - Logger successfully initialized
+07/17/2025 07:25:42 PM - automation - INFO - ***** Test_001_Registration started *******
+07/17/2025 07:25:42 PM - automation - INFO - Navigating to URL: https://www.automationexercise.com/
+07/17/2025 07:25:47 PM - automation - INFO - Clicking on signup button
+07/17/2025 07:25:47 PM - automation - INFO - Providing customer details for registration
+07/17/2025 07:25:47 PM - automation - INFO - Generated Email: dtptcach@gmail.com
+07/17/2025 07:25:49 PM - automation - INFO - Creating account
+07/17/2025 07:25:51 PM - automation - INFO - Confirmation message received: ACCOUNT CREATED!
+07/17/2025 07:25:51 PM - automation - INFO - ***** Account registration passed *******
+07/17/2025 07:25:53 PM - automation - INFO - ***** Test_001_Registration finished *******
+07/17/2025 07:26:23 PM - automation - INFO - Logger successfully initialized
+07/17/2025 07:26:25 PM - automation - INFO - ***** Test_001_Registration started *******
+07/17/2025 07:26:25 PM - automation - INFO - Navigating to URL: https://www.automationexercise.com/
+07/17/2025 07:26:29 PM - automation - INFO - Clicking on signup button
+07/17/2025 07:26:30 PM - automation - INFO - Providing customer details for registration
+07/17/2025 07:26:30 PM - automation - INFO - Generated Email: ly8vivnf@gmail.com
+07/17/2025 07:26:32 PM - automation - INFO - Creating account
+07/17/2025 07:26:33 PM - automation - INFO - Confirmation message received: ACCOUNT CREATED!
+07/17/2025 07:26:33 PM - automation - INFO - ***** Account registration passed *******
+07/17/2025 07:26:35 PM - automation - INFO - ***** Test_001_Registration finished *******
+07/17/2025 07:26:47 PM - automation - INFO - Logger successfully initialized
+07/17/2025 07:26:55 PM - automation - INFO - ***** Test_001_Registration started *******
+07/17/2025 07:26:55 PM - automation - INFO - Navigating to URL: https://www.automationexercise.com/
+07/17/2025 07:27:00 PM - automation - INFO - Clicking on signup button
+07/17/2025 07:27:00 PM - automation - INFO - Providing customer details for registration
+07/17/2025 07:27:00 PM - automation - INFO - Generated Email: hu6nlbwf@gmail.com
+07/17/2025 07:27:03 PM - automation - INFO - Creating account
+07/17/2025 07:27:03 PM - automation - INFO - Confirmation message received: None
+07/17/2025 07:27:03 PM - automation - ERROR - ***** Account registration failed *******
+07/17/2025 07:27:03 PM - automation - ERROR - Exception occurred: assert False
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\OpenCartProject\testCases\test_001_Reg_newcode.py", line 81, in test_account_reg
+    assert False
+AssertionError: assert False
+07/17/2025 07:27:06 PM - automation - INFO - ***** Test_001_Registration finished *******
+07/17/2025 08:06:25 PM - automation - INFO - Logger successfully initialized
+07/17/2025 08:06:27 PM - automation - INFO - *****Test_001_Registration started *******
+07/17/2025 08:06:30 PM - automation - INFO - *****signup started*******
+07/17/2025 08:06:31 PM - automation - INFO - ***** providing cx details for registration *******
+07/17/2025 08:06:36 PM - automation - INFO - ***** account registration is passed *******
+07/18/2025 11:55:50 AM - automation - INFO - Logger successfully initialized
+07/18/2025 11:55:54 AM - automation - INFO - ----test_002_login initiated----
+07/18/2025 11:56:00 AM - automation - INFO - *****Login started*******
+07/18/2025 12:00:46 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:00:48 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:00:55 PM - automation - INFO - *****Login started*******
+07/18/2025 12:03:45 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:03:47 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:03:51 PM - automation - INFO - *****Login started*******
+07/18/2025 12:07:13 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:07:15 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:07:19 PM - automation - INFO - *****Login started*******
+07/18/2025 12:10:59 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:11:02 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:11:06 PM - automation - INFO - *****Login started*******
+07/18/2025 12:13:55 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:13:58 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:14:02 PM - automation - INFO - *****Login started*******
+07/18/2025 12:14:31 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:14:33 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:14:37 PM - automation - INFO - *****Login started*******
+07/18/2025 12:16:40 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:16:43 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:16:46 PM - automation - INFO - *****Login started*******
+07/18/2025 12:19:48 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:19:53 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:19:56 PM - automation - INFO - *****Login started*******
+07/18/2025 12:33:47 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:33:49 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:33:54 PM - automation - INFO - *****Login started*******
+07/18/2025 12:36:38 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:36:40 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:36:45 PM - automation - INFO - *****Login started*******
+07/18/2025 12:42:12 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:42:15 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:42:50 PM - automation - INFO - *****Login started*******
+07/18/2025 12:56:21 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:56:21 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:56:21 PM - automation - INFO - Logger successfully initialized
+07/18/2025 12:56:26 PM - automation - INFO - ***** Test_001_Registration started *******
+07/18/2025 12:56:26 PM - automation - INFO - Navigating to URL: https://www.automationexercise.com/
+07/18/2025 12:57:16 PM - automation - INFO - Clicking on signup button
+07/18/2025 12:57:17 PM - automation - INFO - Providing customer details for registration
+07/18/2025 12:57:17 PM - automation - INFO - Generated Email: f5o9a3p6@gmail.com
+07/18/2025 12:57:19 PM - automation - INFO - Creating account
+07/18/2025 12:57:24 PM - automation - INFO - Confirmation message received: ACCOUNT CREATED!
+07/18/2025 12:57:24 PM - automation - INFO - ***** Account registration passed *******
+07/18/2025 12:57:27 PM - automation - INFO - ***** Test_001_Registration finished *******
+07/18/2025 12:57:29 PM - automation - INFO - *****Test_001_Registration started *******
+07/18/2025 12:57:33 PM - automation - INFO - *****signup started*******
+07/18/2025 12:57:37 PM - automation - INFO - ***** providing cx details for registration *******
+07/18/2025 12:57:44 PM - automation - INFO - ***** account registration is passed *******
+07/18/2025 12:57:45 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 12:57:50 PM - automation - INFO - *****Login started*******
+07/18/2025 04:47:54 PM - automation - INFO - Logger successfully initialized
+07/18/2025 04:47:59 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 05:05:04 PM - automation - INFO - Logger successfully initialized
+07/18/2025 05:05:07 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 05:09:18 PM - automation - INFO - Logger successfully initialized
+07/18/2025 05:09:20 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 05:12:22 PM - automation - INFO - Logger successfully initialized
+07/18/2025 05:12:25 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 05:16:18 PM - automation - INFO - Logger successfully initialized
+07/18/2025 05:16:21 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 05:17:31 PM - automation - INFO - Logger successfully initialized
+07/18/2025 05:17:32 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 07:19:04 PM - automation - INFO - Logger successfully initialized
+07/18/2025 07:19:07 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 07:22:33 PM - automation - INFO - Logger successfully initialized
+07/18/2025 07:22:36 PM - automation - INFO - ----test_002_login initiated----
+07/18/2025 07:41:23 PM - automation - INFO - Logger successfully initialized
+07/18/2025 07:41:23 PM - automation - INFO - Logger successfully initialized
+07/18/2025 07:41:23 PM - automation - INFO - Logger successfully initialized
+07/18/2025 07:41:23 PM - automation - INFO - Logger successfully initialized
+07/18/2025 07:41:26 PM - automation - INFO - *****Test_001_Registration started *******
+07/18/2025 07:41:30 PM - automation - INFO - *****signup started*******
+07/18/2025 07:41:31 PM - automation - INFO - ***** providing cx details for registration *******
+07/18/2025 07:41:35 PM - automation - INFO - ***** account registration is passed *******
+07/19/2025 10:54:54 AM - automation - INFO - Logger successfully initialized
+07/19/2025 10:54:55 AM - automation - INFO - Logger successfully initialized
+07/19/2025 11:00:50 AM - automation - INFO - Logger successfully initialized
+07/19/2025 11:00:50 AM - automation - INFO - Logger successfully initialized
+07/19/2025 11:04:46 AM - automation - INFO - Logger successfully initialized
+07/19/2025 11:04:50 AM - automation - INFO - *****Test_001_Registration started *******
+07/19/2025 11:04:57 AM - automation - INFO - *****signup started*******
+07/19/2025 11:04:58 AM - automation - INFO - ***** providing cx details for registration *******
+07/19/2025 11:05:02 AM - automation - INFO - ***** account registration is passed *******
+07/19/2025 11:07:29 AM - automation - INFO - Logger successfully initialized
+07/19/2025 11:07:31 AM - automation - INFO - *****Test_001_Registration started *******
+07/19/2025 11:07:34 AM - automation - INFO - *****signup started*******
+07/19/2025 11:07:35 AM - automation - INFO - ***** providing cx details for registration *******
+07/19/2025 11:07:41 AM - automation - INFO - ***** account registration is passed *******
